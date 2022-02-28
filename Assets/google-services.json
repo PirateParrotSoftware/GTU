@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212730407487",
+    "project_id": "gtu-app-19e31",
+    "storage_bucket": "gtu-app-19e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212730407487:android:0a9701e00aac5a8889a68a",
+        "android_client_info": {
+          "package_name": "com.PirateParrot.GTU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212730407487-0cv7t3j3a3eii8lm8n07qnisn5a5ifib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9jeDf8doVZ4adam7tst-K-quZsMTwxnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212730407487-0cv7t3j3a3eii8lm8n07qnisn5a5ifib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
